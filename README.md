@@ -6,7 +6,10 @@ This repository contains a curated set of **Jupyter Notebooks** demonstrating ad
 - **How to Interpret Results** — key takeaways for decision-making.  
 - **Fully coded Python examples** using open or simulated datasets.  
 
-![Hero](brian-curry-econometrics-forecasting-media-mix-modeling.png)
+<p align="center">
+  <img src="brian-curry-econometrics-forecasting-media-mix-modeling.png" alt="Hero Image" width="700"/>
+</p>
+
 
 ---
 
